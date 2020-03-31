@@ -1,0 +1,6 @@
+framework module SecondDemo {
+  umbrella header "SecondDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

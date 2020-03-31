@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Test-TestUITests/Pods-Test-TestUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Demo/Demo.framework
+${BUILT_PRODUCTS_DIR}/PublicFrame/PublicFrame.framework
+${BUILT_PRODUCTS_DIR}/SecondDemo/SecondDemo.framework

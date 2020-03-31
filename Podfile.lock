@@ -1,0 +1,24 @@
+PODS:
+  - Demo (0.1.2)
+  - PublicFrame (0.1.1)
+  - SecondDemo (0.1.0)
+
+DEPENDENCIES:
+  - Demo (= 0.1.2)
+  - PublicFrame
+  - SecondDemo
+
+SPEC REPOS:
+  https://github.com/jiangjiang09081/podspec.git:
+    - Demo
+    - PublicFrame
+    - SecondDemo
+
+SPEC CHECKSUMS:
+  Demo: 66d46895c8fdb0c43bcd481a98f1f2a916691600
+  PublicFrame: 04af46eaa495a90196c9c4f0353457909948e8bb
+  SecondDemo: 830a7fb69771bcbaf2deb93dec74e3cee59e0a99
+
+PODFILE CHECKSUM: 0f05998651e3fbf3a9f304b3b95344d5add812be
+
+COCOAPODS: 1.8.3

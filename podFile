@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+source 'https://github.com/jiangjiang09081/podspec.git'
+target 'Test' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'Demo', '0.1.2'
+  pod 'SecondDemo'
+  pod 'PublicFrame'
+  # Pods for Test
+
+  target 'TestTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'TestUITests' do
+    # Pods for testing
+  end
+end
